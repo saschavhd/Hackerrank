@@ -4,6 +4,6 @@ function Rectangle(a, b) {
         width: b,
         area: a * b,
         perimeter: (2*a) + (2*b)
-    }
-    return rect
+    };
+    return rect;
 }

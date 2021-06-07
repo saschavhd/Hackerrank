@@ -1,5 +1,5 @@
 function getDayName(dateString) {
-    let date = new Date(dateString)
+    let date = new Date(dateString);
     const dayN = date.getDay();
     switch(dayN) {
         case 0: return "Sunday";

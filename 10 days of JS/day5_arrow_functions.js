@@ -7,5 +7,5 @@ function modifyArray(nums) {
             nums[i] = nums[i] * 3;
         }
     }
-    return nums
+    return nums;
 }

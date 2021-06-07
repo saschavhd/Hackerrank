@@ -79,6 +79,8 @@ function getResult() {
     operation = "";
 }
 
+// Outdated should be simplified a lot >>>>>>>>>>
+
 function addSum() {
     if (!operation) {
         resT.innerHTML += '+';

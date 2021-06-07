@@ -10,8 +10,7 @@ function performOperation(secondInteger, secondDecimal, secondString) {
     const firstString = 'HackerRank ';
 
     // Write code that uses console.log to print the sum of the 'firstInteger' and 'secondInteger' (converted to a Number        type) on a new line.
-    console.log(firstInteger + parseInt(secondInteger))
-
+    console.log(firstInteger + parseInt(secondInteger));
 
     // Write code that uses console.log to print the sum of 'firstDecimal' and 'secondDecimal' (converted to a Number            type) on a new line.
     console.log(firstDecimal + parseFloat(secondDecimal));

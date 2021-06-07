@@ -12,5 +12,5 @@ function getSecondLargest(nums) {
             secMaxV = nums[j];
         }
     }
-    return secMaxV
+    return secMaxV;
 }

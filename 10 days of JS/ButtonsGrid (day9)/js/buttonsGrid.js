@@ -21,16 +21,16 @@ function rotate() {
     for (let i = arr.length - 1; i > 0; i--) {
         arr[i] = arr[i-1];
     }
-    arr[0] = temp
+    arr[0] = temp;
 
     // Set values
-    b1.innerHTML = arr[0]
-    b2.innerHTML = arr[1]
-    b3.innerHTML = arr[2]
-    b6.innerHTML = arr[3]
-    b9.innerHTML = arr[4]
-    b8.innerHTML = arr[5]
-    b7.innerHTML = arr[6]
-    b4.innerHTML = arr[7]
-    return -1
+    b1.innerHTML = arr[0];
+    b2.innerHTML = arr[1];
+    b3.innerHTML = arr[2];
+    b6.innerHTML = arr[3];
+    b9.innerHTML = arr[4];
+    b8.innerHTML = arr[5];
+    b7.innerHTML = arr[6];
+    b4.innerHTML = arr[7];
+    return -1;
 }
