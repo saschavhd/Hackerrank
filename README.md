@@ -1,2 +1,2 @@
 # Hackkerrank
-Old solves, should be updated.
+Still has lots of old shitty solves.
